@@ -1,16 +1,24 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: simplegr # Your GitHub organization or username, where this repository lives
+repo: simple-uptime-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Simple (GR)
+    url: https://www.simplewebsolutions.gr
+  - name: Verum Coffee
+    url: https://www.verumcoffee.gr
+  - name: In Deep Analysis
+    url: https://indeepanalysis.gr
+  - name: MMC Group Holding Hellas
+    url: https://www.mmcgroupholding.com
+  - name: Mosfero
+    url: https://www.mosfero.com
+  - name: Regal Hotel
+    url: https://www.regalhotels.gr
+  - name: Santorini Best Tours (EN)
+    url: https://santorinibesttours.com
+  - name: Telmaco
+    url: https://www.telmaco.gr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

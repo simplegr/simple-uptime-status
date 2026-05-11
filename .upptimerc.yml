@@ -19,6 +19,8 @@ sites:
     url: https://santorinibesttours.com
   - name: Telmaco
     url: https://www.telmaco.gr
+  - name: Δήμος Τρίπολης
+    url: https://www.tripolis.gr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

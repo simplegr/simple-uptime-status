@@ -85,6 +85,11 @@ sites:
     url: https://www.animalscityoftripolis.gr
   - name: Oinocosmetics
     url: https://www.oinocosmetics.gr
+  - name: Δημητρακόπουλος
+    url: https://www.dimitrakopoulos-welding.com
+  - name: Thelo Anakainisi
+    url: http://theloanakainisi.gr
+
 
 status-website:
   baseUrl: /simple-uptime-status

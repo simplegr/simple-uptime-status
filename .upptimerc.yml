@@ -5,6 +5,8 @@ repo: simple-uptime-status # The name of this repository
 sites:
   - name: Simple (GR)
     url: https://www.simplewebsolutions.gr
+  - name: Simple (EN)
+    url: https://www.simplewebsolutions.com
   - name: Verum Coffee
     url: https://www.verumcoffee.gr
   - name: In Deep Analysis
@@ -17,10 +19,74 @@ sites:
     url: https://www.regalhotels.gr
   - name: Santorini Best Tours (EN)
     url: https://santorinibesttours.com
+  - name: Santorini Best Tours (RU)
+    url: https://santorinibesttours.ru
   - name: Telmaco
     url: https://www.telmaco.gr
   - name: Δήμος Τρίπολης
     url: https://www.tripolis.gr
+  - name: ΔΕΥΑΤ
+    url: https://deyatrip.gr
+  - name: MSC ICSD Πανεπιστημίου Αιγαίου
+    url: https://msc.icsd.aegean.gr
+  - name: E-LEARNING ΕΚΠΑ
+    url: https://elearningekpa.gr
+  - name: Emtech Space
+    url: https://emtech.space
+  - name: VECHRO
+    url: https://www.vechro.gr
+  - name: EXECUTIVE MBA ΕΚΠΑ
+    url: https://emba.ba.uoa.gr
+  - name: YOGAUNION BALI
+    url: https://yogaunionbali.com
+  - name: ESOS
+    url: https://www.esos.gr
+  - name: HYPERELEON
+    url: https://www.hypereleon.com
+  - name: MMC GROUP HOLDING HELLAS
+    url: https://www.mmcgroupholding.com
+  - name: SYNENERGY ADVISORS
+    url: https://www.synenergy-advisors.com
+  - name: THERMOFOIL
+    url: https://www.thermofoil.gr
+  - name: LINGO POWERS
+    url: https://www.lingopowers.gr
+  - name: DOMO ENERGY
+    url: https://domo-energy.gr
+  - name: KADRO
+    url: https://kadro.gr
+  - name: PRIMROSE APARTMENTS
+    url: https://www.primrose.gr
+  - name: I-EKEP
+    url: https://i-ekep.gr
+  - name: TELIS FASHION
+    url: https://www.telisfashion.gr
+  - name: UNIQUE AND FOREVER
+    url: https://www.uniqueandforever.com
+  - name: GLOW CLEANING
+    url: https://www.glowcleaning.gr
+  - name: ERGOMARE
+    url: https://www.ergomare.gr
+  - name: DECO CONSTRUCTION
+    url: https://www.decoconstruction.gr
+  - name: ΚΛΕΙΔΟΓΝΩΣΙΑ
+    url: https://www.kleidognosia.gr
+  - name: Σαχπένογλου
+    url: https://www.saxpenoglou.gr
+  - name: Novogas
+    url: https://www.novogas.gr
+  - name: iShine
+    url: https://www.ishine.gr
+  - name: Μπουρντένης
+    url: https://www.mpourntenis.gr
+  - name: Εκδόσεις Μ.Γκιούρδας
+    url: https://www.mgiurdas.gr
+  - name: Hillside Press
+    url: https://www.elthillside.com
+  - name: Αδέσποτα Δήμου Τρίπολης
+    url: https://www.animalscityoftripolis.gr
+  - name: Oinocosmetics
+    url: https://www.oinocosmetics.gr
 
 status-website:
   baseUrl: /simple-uptime-status

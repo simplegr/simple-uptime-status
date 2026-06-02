@@ -1,7 +1,7 @@
 url: https://www.tripolis.gr
-status: up
-code: 200
-responseTime: 1863
-lastUpdated: 2026-06-02T00:15:50.856Z
+status: down
+code: 415
+responseTime: 824
+lastUpdated: 2026-06-02T06:53:19.651Z
 startTime: 2026-05-11T11:03:46.158Z
 generator: Upptime <https://github.com/upptime/upptime>

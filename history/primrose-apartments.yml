@@ -1,7 +1,7 @@
 url: https://www.primrose.gr
-status: up
-code: 200
-responseTime: 1023
-lastUpdated: 2026-06-12T20:17:23.436Z
+status: down
+code: 415
+responseTime: 260
+lastUpdated: 2026-06-12T23:07:05.529Z
 startTime: 2026-05-11T11:57:01.880Z
 generator: Upptime <https://github.com/upptime/upptime>

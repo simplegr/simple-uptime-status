@@ -1,7 +1,7 @@
 url: https://www.esos.gr
-status: up
-code: 200
-responseTime: 1460
-lastUpdated: 2026-06-30T19:13:07.861Z
+status: down
+code: 415
+responseTime: 449
+lastUpdated: 2026-06-30T23:49:04.586Z
 startTime: 2026-05-11T11:56:46.202Z
 generator: Upptime <https://github.com/upptime/upptime>
